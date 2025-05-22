@@ -14,10 +14,9 @@
         "tab": "Documentation",
         "groups": [
           {
-            "group": "What is Voicemetrics?",
+            "group": "Introduction",
             "pages": [
               "index",
-              "quickstart",
               "development"
             ]
           },
