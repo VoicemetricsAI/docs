@@ -20,7 +20,7 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Getting Started",
             "pages": [
               "essentials/markdown",
               "essentials/code",
